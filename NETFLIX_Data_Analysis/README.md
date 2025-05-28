@@ -56,7 +56,7 @@ This project presents an end-to-end data analysis and visualization of the Netfl
 - 🎭 **Genres**: International Movies, Dramas, and Comedies lead
 - ⏱️ **Durations**: Most movies are between 80–110 minutes
 
-![Dashboard Preview](./visuals/dashboard_preview.png)
+![Dashboard Preview](./visuals/NETFLIX_DASHBOARD 1.png)
 
 ---
 
